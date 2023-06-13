@@ -36,7 +36,7 @@ pycodestyle==2.8.0
     # via flake8
 pyflakes==2.4.0
     # via flake8
-requests==2.28.1
+requests==2.31.0
     # via -r requirements.txt
 urllib3==1.26.10
     # via
