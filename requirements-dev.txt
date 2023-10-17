@@ -38,7 +38,7 @@ pyflakes==2.4.0
     # via flake8
 requests==2.31.0
     # via -r requirements.txt
-urllib3==1.26.10
+urllib3==1.26.18
     # via
     #   -r requirements.txt
     #   requests
